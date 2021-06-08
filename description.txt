@@ -1,0 +1,1 @@
+Logic, aplikacja do tworzenia z podstawowych bramek logicznych czego tylko dusza zapragnie, nawet procesora :D
